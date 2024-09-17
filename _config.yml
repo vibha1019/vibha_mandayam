@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: John Mortensen
 github_username: vibha1019
 github_repo: "vibha_mandayam" 
-baseurl: "/vibha_mandayam"
+baseurl: "/vibha_mandayam"  
 future: true
 remote_theme: jekyll/minima
 minima:
