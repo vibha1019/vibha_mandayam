@@ -27,7 +27,7 @@
 </head>
 <body>
     <h1>Cookie Clicker</h1>
-    <img src="https://i.imgur.com/bvCoIjo.png" alt="Cookie" id="cookie">
+    <img src="/images/cookie.png" alt="Cookie" id="cookie">
     <div id="score">Score: 0</div>
     
     <audio id="clickSound" src="https://www.soundjay.com/button/button-1.mp3"></audio>
