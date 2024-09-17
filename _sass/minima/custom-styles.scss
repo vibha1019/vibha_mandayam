@@ -287,3 +287,26 @@ h1, h2, h3, h4 {
 .no-js h1 {
   color: #fff;
 }
+
+/* Custom styles for code blocks */
+pre, code {
+  font-family: 'Courier New', Courier, monospace; /* Monospaced font for code */
+  font-size: 1em; /* Adjust font size */
+}
+
+pre {
+  background-color: #2e2e2e; /* Dark background for code blocks */
+  color: #f8f8f2; /* Light text color */
+  border: 1px solid #444; /* Border around code blocks */
+  border-radius: 5px; /* Rounded corners */
+  padding: 15px; /* Padding inside code blocks */
+  overflow-x: auto; /* Horizontal scroll for long lines */
+  white-space: pre-wrap; /* Wrap long lines */
+}
+
+code {
+  background-color: #2e2e2e; /* Dark background for inline code */
+  color: #f8f8f2; /* Light text color */
+  padding: 2px 4px; /* Padding for inline code */
+  border-radius: 4px; /* Rounded corners for inline code */
+}
