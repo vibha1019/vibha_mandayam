@@ -1,7 +1,6 @@
 ---
 title: Binary Calculator
 layout: post
-description: A Binary Math illustrative application using HTML, Liquid, and JavaScript.
 categories: [Javascript]
 toc: true
 comments: false
@@ -149,29 +148,31 @@ Liquid for loop includes last number, thus the Minus
     }
     // add is positive integer, subtract is negative integer
     function add(n) {
-        let binary = getBits();
-        // convert to decimal and do math
-        let decimal = parseInt(binary, 2);
-        if (n > 0) {  // PLUS
-            decimal = MAX === decimal ? 0 : decimal += n; // OVERFLOW or PLUS
-        } else  {     // MINUS
-            decimal = 0 === decimal ? MAX : decimal += n; // OVERFLOW or MINUS
-        }
-        // convert the result back to binary
-        binary = decimal_2_base(decimal, 2);
-        // update conversions
-        setConversions(binary);
-        // update bits
-        for (let i = 0; i < binary.length; i++) {
-            let digit = binary.substr(i, 1);
-            document.getElementById('digit' + i).value = digit;
-            if (digit === "1") {
-                document.getElementById('bulb' + i).src = IMAGE_ON;
-                document.getElementById('butt' + i).innerHTML = MSG_OFF;
-            } else {
-                document.getElementById('bulb' + i).src = IMAGE_OFF;
-                document.getElementById('butt' + i).innerHTML = MSG_ON;
-            }
+    let binary = getBits();
+    // convert to decimal and do math
+    let decimal = parseInt(binary, 2);
+    
+    // Adding n to decimal and handling overflow/underflow
+    decimal = (decimal + n + (MAX + 1)) % (MAX + 1);
+    
+    // convert the result back to binary
+    binary = decimal_2_base(decimal, 2);
+    
+    // update conversions
+    setConversions(binary);
+    
+    // update bits
+    for (let i = 0; i < binary.length; i++) {
+        let digit = binary.substr(i, 1);
+        document.getElementById('digit' + i).value = digit;
+        if (digit === "1") {
+            document.getElementById('bulb' + i).src = IMAGE_ON;
+            document.getElementById('butt' + i).innerHTML = MSG_OFF;
+        } else {
+            document.getElementById('bulb' + i).src = IMAGE_OFF;
+            document.getElementById('butt' + i).innerHTML = MSG_ON;
         }
     }
+}
+
 </script>
