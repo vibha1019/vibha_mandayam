@@ -47,9 +47,9 @@ hide: true
 
 <p> </p>
 <div style="background-color: #da95f5; padding: 20px; border-radius: 15px;">
-  <h2 style="color: black;">Cookie Clicker</h2>
-  <button onclick="window.location.href='https://vibha1019.github.io/vibha_mandayam/navigation/cookie_clicker.html';" style="background-color: #C8A2C8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-    Go to Cookie Clicker 
+  <h2 style="color: black;">Snake Game</h2>
+  <button onclick="window.location.href='https://vibha1019.github.io/vibha_mandayam/navigation/snake.html';" style="background-color: #C8A2C8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    Go to Snake Game
   </button>
 </div>
 

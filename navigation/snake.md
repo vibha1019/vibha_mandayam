@@ -104,7 +104,6 @@ title: Snake Game
      <div id="gameover" class="py-4 text-light">
         <div id="game-over-overlay" style="text-align: center;">
             <p id="game-over-text" style="font-size: 36px; color: black; background-color: pink;">Game Over</p>
-            <button onclick="newGame()">Restart</button>
             <p style="font-size: 20px; color: black;">Get better next time! 😞</p>
         </div>
         <a id="new_game1" class="link-alert">new game</a>
