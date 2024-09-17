@@ -30,6 +30,15 @@ hide: true
   <p style="color: black;"> Use the links above to navigate to the programming language of your choosing! </p>
 </div>
 
+<div style="background-color: #da95f5; padding: 20px; border-radius: 15px;">
+  <h2 style="color: black;">AP CSP Students  Click Here!</h2>
+  <p style="color: black;">To properly prepare and excel in this class, there are many resources available to you. Click on the button below!</p>
+  <button onclick="window.location.href='/navigation/calculator.md';" style="background-color: #C8A2C8; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    Go to Calculator
+  </button>
+</div>
+
+
 <p> </p>
 <table style="background-color: #da95f5;">
     <tr>
