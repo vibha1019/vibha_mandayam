@@ -89,6 +89,7 @@ hide: true
     <a href="https://vibha1019.github.io/vibha_mandayam/navigation/cookie_clicker.html">Cookie Clicker</a>
     <a href="https://vibha1019.github.io/vibha_mandayam/navigation/snake.html">Snake Game</a>
     <a href="https://vibha1019.github.io/vibha_mandayam/navigation/binary_calculator.html">Binary Calculator</a>
+    <a href="https://vibha1019.github.io/bc_game/index.html"> Bulls and Cows Game</a>
   </div>
 </div>
 
