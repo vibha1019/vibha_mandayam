@@ -351,16 +351,19 @@ title: Snake Game
         }
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
-
         let activeDot = function(x, y){
-            ctx.fillStyle = "#FF0000";
-            const radius = BLOCK / 2; // Calculate the radius for a circle
-            const centerX = (x * BLOCK) + radius;
-            const centerY = (y * BLOCK) + radius;
-            ctx.beginPath();
-            ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI);
-            ctx.fill();
-        }
+            const BLOCK_SIZE = 20;  // Adjust size if needed
+            const appleEmoji = "🍎"; // Apple emoji
+
+            // Set the font size to match the block size
+            ctx.font = `${BLOCK_SIZE}px sans-serif`;
+            ctx.textAlign = "center";
+            ctx.textBaseline = "middle";
+
+            // Draw the apple emoji at the given x, y coordinates
+            ctx.fillText(appleEmoji, (x + 0.5) * BLOCK_SIZE, (y + 0.5) * BLOCK_SIZE);
+        };
+
 
         /* Random food placement */
         /////////////////////////////////////////////////////////////
