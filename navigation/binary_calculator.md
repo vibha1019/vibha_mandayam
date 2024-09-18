@@ -6,7 +6,7 @@ toc: true
 comments: false
 ---
 
-<!-- 
+<!-- hello
 
 Learn how the page works, plus learn about binary
 Hack 0: Do your own on/off thing with the Image and Buttons thing

@@ -1,10 +1,3 @@
----
-toc: false
-comments: false
-layout: post
-title: Snake Game
----
-
 <!-- Inside the <style> tag in your HTML -->
 <style>
 
@@ -207,6 +200,20 @@ title: Snake Game
             button_new_game2.onclick = function(){newGame();};
             button_setting_menu.onclick = function(){showScreen(SCREEN_SETTING);};
             button_setting_menu1.onclick = function(){showScreen(SCREEN_SETTING);};
+
+            // Prevent default arrow key behavior
+            window.addEventListener("keydown", function(evt) {
+                if (["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].includes(evt.code)) {
+                    evt.preventDefault(); // Prevent default scrolling
+                }
+                // Handle spacebar detection for new game
+                if(evt.code === "Space" && SCREEN !== SCREEN_SNAKE) {
+                    newGame();
+                }
+                // Handle snake direction changes
+                changeDir(evt.keyCode);
+            }, true);
+
             // speed
             setSnakeSpeed(150);
             for(let i = 0; i < speed_setting.length; i++){
@@ -229,12 +236,6 @@ title: Snake Game
                     }
                 });
             }
-            // activate window events
-            window.addEventListener("keydown", function(evt) {
-                // spacebar detected
-                if(evt.code === "Space" && SCREEN !== SCREEN_SNAKE)
-                    newGame();
-            }, true);
         }
         /* Snake is on the Go (Driver Function)  */
         /////////////////////////////////////////////////////////////
@@ -352,53 +353,45 @@ title: Snake Game
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
-            const BLOCK_SIZE = 20;  // Adjust size if needed
-            const appleEmoji = "🍎"; // Apple emoji
-
-            // Set the font size to match the block size
-            ctx.font = `${BLOCK_SIZE}px sans-serif`;
-            ctx.textAlign = "center";
-            ctx.textBaseline = "middle";
-
-            // Draw the apple emoji at the given x, y coordinates
-            ctx.fillText(appleEmoji, (x + 0.5) * BLOCK_SIZE, (y + 0.5) * BLOCK_SIZE);
-        };
-
-
-        /* Random food placement */
+            ctx.fillStyle = "#FF0000";
+            const radius = BLOCK / 2; // Calculate the radius for a circle
+            const centerX = (x * BLOCK) + radius;
+            const centerY = (y * BLOCK) + radius;
+            ctx.beginPath();
+            ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI);
+            ctx.fill();
+        }
+        /* Check two blocks intersection */
+        /////////////////////////////////////////////////////////////
+        let checkBlock = function(x1, y1, x2, y2){
+            return (x1 === x2 && y1 === y2);
+        }
+        /* Add food to a new position */
         /////////////////////////////////////////////////////////////
         let addFood = function(){
-            food.x = Math.floor(Math.random() * ((canvas.width / BLOCK) - 1));
-            food.y = Math.floor(Math.random() * ((canvas.height / BLOCK) - 1));
-            for(let i = 0; i < snake.length; i++){
-                if(checkBlock(food.x, food.y, snake[i].x, snake[i].y)){
-                    addFood();
-                }
+            let x = Math.floor(Math.random() * canvas.width / BLOCK);
+            let y = Math.floor(Math.random() * canvas.height / BLOCK);
+            // Check new food is on the snake
+            while (snake.some(seg => seg.x === x && seg.y === y)) {
+                x = Math.floor(Math.random() * canvas.width / BLOCK);
+                y = Math.floor(Math.random() * canvas.height / BLOCK);
             }
+            food = {x: x, y: y};
         }
-        /* Collision Detection */
+        /* Speed Setter */
         /////////////////////////////////////////////////////////////
-        let checkBlock = function(x, y, _x, _y){
-            return (x === _x && y === _y);
+        let setSnakeSpeed = function(speed){
+            snake_speed = speed;
         }
-        /* Update Score */
+        /* Wall Setting */
         /////////////////////////////////////////////////////////////
-        let altScore = function(score_val){
-            ele_score.innerHTML = String(score_val);
+        let setWall = function(opt){
+            wall = opt;
         }
+        /* Update Score Display */
         /////////////////////////////////////////////////////////////
-        // Change the snake speed...
-        // 150 = slow
-        // 100 = normal
-        // 50 = fast
-        let setSnakeSpeed = function(speed_value){
-            snake_speed = speed_value;
-        }
-        /////////////////////////////////////////////////////////////
-        let setWall = function(wall_value){
-            wall = wall_value;
-            if(wall === 0){screen_snake.style.borderColor = "#606060";}
-            if(wall === 1){screen_snake.style.borderColor = "#FFB6C1";}
+        let altScore = function(score){
+            ele_score.innerHTML = score;
         }
     })();
 </script>
