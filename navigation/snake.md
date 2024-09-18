@@ -9,7 +9,7 @@ title: Snake Game
 <style>
 
     body{
-        background-color: #C9FEC9; /* Add this line to set the overall background color */
+        background-color: #da95f5; /* Updated overall background color */
     }
     
     .wrap {
@@ -21,7 +21,7 @@ title: Snake Game
         display: none;
         border-style: solid;
         border-width: 30px;
-        border-color: #FFFFFF;
+        border-color: #000000; /* Changed from white to black */
     }
 
     canvas:focus {
@@ -31,25 +31,25 @@ title: Snake Game
     /* Header Style */
     header {
         text-align: center;
-        background-color: #FFB6C1; /* Background color for the header */
+        background-color: #da95f5; /* Updated background color for the header */
         padding: 10px;
     }
 
     header p {
-        color: #000000; /* Text color for the header */
+        color: #000000; /* Text color for the header remains black */
         font-size: 24px;
     }
 
     /* All screens style */
     #gameover p, #setting p, #menu p {
         font-size: 20px;
-        background-color: #c9fec9; /* Add this line to set the background color of the text */
+        background-color: #da95f5; /* Updated background color */
     }
 
     #gameover a, #setting a, #menu a {
         font-size: 30px;
         display: block;
-        background-color: #c9fec9; /* Add this line to set the background color of the text */
+        background-color: #da95f5; /* Updated background color */
     }
 
     #gameover a:hover, #setting a:hover, #menu a:hover {
@@ -82,12 +82,10 @@ title: Snake Game
     }
 
     #setting input:checked + label {
-        background-color: #FFF;
-        color: #000;
+        background-color: #da95f5; /* Updated background color */
+        color: #000000; /* Text color remains black */
     }
 </style>
-
-
 
 <div class="container">
     <header class="pb-3 mb-4 border-bottom border-primary text-dark">
@@ -96,14 +94,14 @@ title: Snake Game
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
+            <p>Welcome to Snake, press <span style="background-color: #000000; color: #da95f5">space</span> to begin</p> <!-- Changed text to black and background to #da95f5 -->
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
         <!-- Game Over -->
      <div id="gameover" class="py-4 text-light">
         <div id="game-over-overlay" style="text-align: center;">
-            <p id="game-over-text" style="font-size: 36px; color: black; background-color: pink;">Game Over</p>
+            <p id="game-over-text" style="font-size: 36px; color: black; background-color: #da95f5;">Game Over</p> <!-- Updated background to #da95f5 -->
             <p style="font-size: 20px; color: black;">Get better next time! 😞</p>
         </div>
         <a id="new_game1" class="link-alert">new game</a>
@@ -113,7 +111,7 @@ title: Snake Game
         <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color: #FFFFFF; color: #000000">space</span> to go back to playing</p>
+            <p>Settings Screen, press <span style="background-color: #000000; color: #da95f5">space</span> to go back to playing</p> <!-- Changed text to black and background to #da95f5 -->
             <a id="new_game2" class="link-alert">new game</a>
             <br>
             <p>Speed:
@@ -135,6 +133,7 @@ title: Snake Game
         </div>
     </div>
 </div>
+
 
 <script>
     (function(){
