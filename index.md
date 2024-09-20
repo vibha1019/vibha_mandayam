@@ -299,10 +299,3 @@ hide: true
 </script>
 
 
-<script src="https://utteranc.es/client.js"
-        repo="vibha1019/vibha_mandayam_2025"
-        issue-term="pathname"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script> 
