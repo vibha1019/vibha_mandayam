@@ -29,6 +29,15 @@ $on-laptop:        800px !default;
 	}
 }  
 
+.jp-CodeMirror .cm-operator {
+    color: #FF4500 !important;  // Forces this color to be applied
+}
+
+.jp-CodeMirror .cm-bracket {
+    color: #1E90FF !important;  // Forces this color to be applied
+}
+
+
 @import 'base';
 @import 'layout';
 @import 'highlight-dark';
