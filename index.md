@@ -112,7 +112,7 @@ hide: true
         <td><a href="{{site.baseurl}}/github/pages/planning">Planning Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/javacell">Java Cell Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/frontendhacks"> Front End Hacks Notebook</a></td>
-        <td><a href="{{site.basurl}}/github/pages/hacks"> 3.3 Hacks </a></td>
+        <td><a href="{{site.basurl}}/vibha_mandayam/github/pages/hacks"> 3.3 Hacks </a></td>
     </tr>
 </table>
 
