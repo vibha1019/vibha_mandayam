@@ -29,12 +29,17 @@ $on-laptop:        800px !default;
 	}
 }  
 
-.jp-CodeMirror .cm-operator {
-    color: #FF4500 !important;  // Forces this color to be applied
+// Custom styles to change the background of code cells to neon yellow
+.jp-CodeMirror {
+    background-color: #FFFF00 !important;  // Neon Yellow
 }
 
-.jp-CodeMirror .cm-bracket {
-    color: #1E90FF !important;  // Forces this color to be applied
+.jp-Notebook {
+    background-color: #FFFF00 !important;  // Neon Yellow for the entire notebook
+}
+
+.jp-CodeCell {
+    background-color: #FFFF00 !important;  // Neon Yellow for code cells
 }
 
 
