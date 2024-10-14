@@ -112,7 +112,18 @@ hide: true
         <td><a href="{{site.baseurl}}/github/pages/planning">Planning Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/javacell">Java Cell Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/frontendhacks"> Front End Hacks Notebook</a></td>
-        <td><a href="{{site.baseurl}}/github/pages/hacks"> 3.3 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_3_hacks"> 3.3 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_5_hacks"> 3.5 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_1_hacks"> 3.1 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_4_hacks"> 3.4 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_8_hacks"> 3.8 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_10_hacks"> 3.10 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_2_hacks"> 3.2 Hacks </a></td>
+        <td><a href="{{site.baseurl}}/github/pages/3_10B_hacks"> 3.10B Hacks </a></td>
+
+
+
+
     </tr>
 </table>
 
