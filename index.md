@@ -121,7 +121,6 @@ hide: true
         <td><a href="{{site.baseurl}}/github/pages/3_2_hacks">3.2 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_10B_hacks">3.10B Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/sprint_2">Sprint 2</a></td>  
-        <!-- Add your new link here -->
         <td><a href="{{site.baseurl}}/github/posts/2024-10-16-Animation">Animation</a></td>
     </tr>
 </table>
