@@ -125,6 +125,14 @@ hide: true
     </tr>
 </table>
 
+<p> </p>
+    <tr>
+        <td><a href="{{site.baseurl}}/sprint_3_team_plan">Sprint 3 Team Plan</a></td>
+
+    </tr>
+</table>
+
+
 <!-- Liquid:  statements -->
 
 <!--- Concatenation of site URL to frontmatter image  --->
