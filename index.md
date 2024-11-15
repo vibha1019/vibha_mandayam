@@ -131,6 +131,7 @@ hide: true
         <td><a href="{{site.baseurl}}/sprint_3_team_plan">Sprint 3 Team Plan</a></td>
         <td><a href="{{site.baseurl}}/sprint_3_review_ticket">Sprint 1-3 Review Ticket</a></td>
         <td><a href="{{site.baseurl}}/natm_reflection"> N@tM Team Presentation</a></td>
+        <td><a href="{{site.baseurl}}/program_function"> Program Function & Purpose </a></td>
     </tr>
 </table>
 
