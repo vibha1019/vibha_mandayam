@@ -129,6 +129,9 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/sprint_3_team_plan">Sprint 3 Team Plan</a></td>
+        <td><a href="{{site.baseurl}}/sprint_3_review_ticket">Sprint 1-3 Review Ticket</a></td>
+
+
     </tr>
 </table>
 

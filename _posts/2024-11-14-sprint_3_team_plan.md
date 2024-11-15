@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint 3 Team PLan
+title: Sprint 3 Team Plan	
 permalink: /sprint_3_team_plan
 comments: true
 ---
@@ -151,3 +151,6 @@ This page highlights the fun and interactive experience for students to browse a
     <div id="gift-card-posts" class="category-posts"></div>
 
 ```
+
+## Evidence of research and look-a-like ideas from Reddit, Pinterest, etc. Showing research.
+![image](https://github.com/user-attachments/assets/64cbffb9-83c3-4cdf-b865-58d2b4eed4ea)
