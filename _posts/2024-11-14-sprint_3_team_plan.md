@@ -7,7 +7,7 @@ comments: true
 
 # 🛒 D'nero Store Project Overview
 
-This project aims to create an **interactive online chat room** where students can connect and buy their favorite items at the **Dinero Store**. By promoting new items and fostering communities around shared interests, students can engage with others who enjoy similar items and products.
+This project aims to create an **interactive online chat room** where students can connect and buy their favorite items at the **D'nero Store**. By promoting new items and fostering communities around shared interests, students can engage with others who enjoy similar items and products.
 
 ---
 
@@ -25,7 +25,7 @@ The project’s unique feature is its **community-building approach**. When stud
 ## 🚨 **Moderator Rules**
 - Be **kind and respectful** to everyone in the forum.
 - Keep comments **polite**; inappropriate or mean comments will be removed.
-- Only discuss **Dinero Store** items.
+- Only discuss **D'nero Store** items.
 - **No advertising** for other stores or schools (like Westview).
 - **Have fun** sharing your opinions!
 
@@ -33,9 +33,9 @@ The project’s unique feature is its **community-building approach**. When stud
 
 ## 🍭 **Nighthawk Dinero Store** (Candy Showcase Page)
 
-This page highlights the fun and interactive experience for students to browse and discuss **Dinero Store** items. The purpose is to create an engaging chat room specifically for **Del Norte High School** students, with a focus on the **D’Nero Store**.
+This page highlights the fun and interactive experience for students to browse and discuss **D'nero Store** items. The purpose is to create an engaging chat room specifically for **Del Norte High School** students, with a focus on the **D’Nero Store**.
 
-![Nighthawk Dinero Store Visual](https://github.com/user-attachments/assets/561f05f0-281e-4d26-a631-75fcbf61931e)
+![Nighthawk D'nero Store Visual](https://github.com/user-attachments/assets/561f05f0-281e-4d26-a631-75fcbf61931e)
 
 ---
 
@@ -149,3 +149,5 @@ This page highlights the fun and interactive experience for students to browse a
       </div>
     </div>
     <div id="gift-card-posts" class="category-posts"></div>
+
+```
