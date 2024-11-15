@@ -126,9 +126,9 @@ hide: true
 </table>
 
 <p> </p>
+<table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/sprint_3_team_plan">Sprint 3 Team Plan</a></td>
-
     </tr>
 </table>
 

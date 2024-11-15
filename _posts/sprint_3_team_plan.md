@@ -6,7 +6,7 @@ permalink: /sprint_3_team_plan
 comments: true
 ---
 
-# 🛒 Dinero Store Project Overview
+# 🛒 D'nero Store Project Overview
 
 This project aims to create an **interactive online chat room** where students can connect and buy their favorite items at the **Dinero Store**. By promoting new items and fostering communities around shared interests, students can engage with others who enjoy similar items and products.
 
