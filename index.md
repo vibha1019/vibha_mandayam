@@ -104,14 +104,19 @@ hide: true
 
 
 
-
-
 <p> </p>
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/github/pages/planning">Planning Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/javacell">Java Cell Notebook</a></td>
         <td><a href="{{site.baseurl}}/github/pages/frontendhacks">Front End Hacks Notebook</a></td>
+    </tr>
+</table>
+
+
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
         <td><a href="{{site.baseurl}}/github/pages/3_3_hacks">3.3 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_5_hacks">3.5 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_1_hacks">3.1 Hacks</a></td>
@@ -121,7 +126,6 @@ hide: true
         <td><a href="{{site.baseurl}}/github/pages/3_2_hacks">3.2 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_10B_hacks">3.10B Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/sprint_2">Sprint 2</a></td>  
-        <td><a href="{{site.baseurl}}/github/posts/2024-10-16-Animation">Animation</a></td>
     </tr>
 </table>
 
