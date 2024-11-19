@@ -136,6 +136,12 @@ hide: true
 </table>
 
 
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/test_corrections">Test Corrections</a></td>
+    </tr>
+</table>
 <!-- Liquid:  statements -->
 
 <!--- Concatenation of site URL to frontmatter image  --->
