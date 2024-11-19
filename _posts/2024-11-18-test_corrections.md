@@ -69,9 +69,24 @@ comments: true
 ---
 
 ## Question 55
-![Question 55]({{ site.baseurl }}/ images/question55.png)
+![Question 55]({{ site.baseurl }}/images/question55.png)
 - **Mistake**: 
   *A is incorrect. The procedure always returns false.*
 
 - **Correction**: 
   *This option is correct. The expression response = y, AND, response = yes, always evaluates to false because it is not possible for the variable response to be equal to both y and yes. Therefore, the procedure will always return false.*
+
+
+### Reflection on AP CSP 2018 MCQ
+
+#### **What I Learned from the Quiz**
+- I need to carefully analyze how code segments execute step by step.  
+- Understanding conditions, logic, and program behavior is critical for correct answers.  
+- Reviewing foundational concepts like overflow errors, undecidable problems, and Boolean logic helps prevent mistakes.  
+
+---
+
+#### **What Types of Questions I Feel Weak On**
+- **Code Execution**: Missteps in following the logic of a program (e.g., robot navigation).  
+- **Data Representation**: Misunderstanding limits like 4-bit integer overflow.  
+- **Theoretical Concepts**: Difficulty grasping undecidable problems and algorithm limitations.  
