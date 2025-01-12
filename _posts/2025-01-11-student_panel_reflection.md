@@ -16,12 +16,15 @@ Attending and organizing the student panel with Girls in CS was a good experienc
   - This inspired me to see CSP as more than just assignments—it's an opportunity to go beyond expectations.  
   - I plan to:  
     - **Work on personal projects**  
+        - For example, I am currently building a game on my own to add to my portfolio
     - **Experiment with new programming concepts**  
-    - **Collaborate with peers** to develop creative ideas.  
+        - Maybe research a little deeper into what exactly we're doing in class, rather than being surface level
+    - **Collaborate with peers** 
+        - I want to work with my team in order to accomplish something more than what we're doing right now  
 
 - **Importance of Job Fairs**  
   - One panelist emphasized how attending job fairs can help you **build your network** and connect with potential opportunities.  
-  - Always be proactive and look out for ways to grow your career even in high school 
+  - I want to attend college and job fairs so I can get a little more information on what I want to do with my life
 
 ![Proof I was at the Panel!]({{ site.baseurl }}/images/panel_proof.png)
 (Sorry the picture is blurry, but I think you know I was there)
