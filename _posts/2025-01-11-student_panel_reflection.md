@@ -5,11 +5,11 @@ permalink: /panel_reflection
 comments: true
 ---
 
-Attending and organizing the student panel with Girls in CS was a fantastic experience! Here are my key takeaways and how I plan to act on them:
+Attending and organizing the student panel with Girls in CS was a good experience Here are my key takeaways and how I plan to act on them:
 
 ### **Key Lessons from the Panel**
 - **CSP and CSA Encourage Creativity**  
-  - Aadit shared that these classes helped him *unleash his creative side*, unlike traditional classes focused on **memorization and tests**.  
+  - Aadit shared that these classes helped him be creative, unlike traditional classes focused on **memorization and tests**.  
   - Computer science offers **limitless opportunities** for innovation and creation.
 
 - **Freedom to Explore and Innovate**  
@@ -25,6 +25,7 @@ Attending and organizing the student panel with Girls in CS was a fantastic expe
 
 ![Proof I was at the Panel!]({{ site.baseurl }}/images/panel_proof.png)
 (Sorry the picture is blurry, but I think you know I was there)
+
 ---
 
 ### **Notes from the Panel**
@@ -70,4 +71,4 @@ Attending and organizing the student panel with Girls in CS was a fantastic expe
 
 ---
 
-This panel taught me valuable lessons about computer science, college, and career opportunities. I’m excited to implement these insights into my journey!
+This panel taught me valuable lessons about computer science, college, and career opportunities. I'm glad Girls in CS was able to help organize it. 
