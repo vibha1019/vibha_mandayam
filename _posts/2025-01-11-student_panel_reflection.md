@@ -61,7 +61,7 @@ Attending and organizing the student panel with Girls in CS was a good experienc
    - Prioritize hands-on projects and technical skills for internships instead of focusing too much on GPA.  
 
 8. **Extracurricular Activities to Pursue:**  
-   - Build websites, compete in **CyberPatriot**, and explore internships like Northrop Grumman.  
+   - Build websites, compete in local hackathons/competitions, and explore internships like Northrop Grumman.  
    - Get involved in **Science Olympiad** or participate in research opportunities.  
 
 9. **Tips for Internships:**  
