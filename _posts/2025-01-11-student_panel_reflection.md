@@ -24,6 +24,7 @@ Attending and organizing the student panel with Girls in CS was a fantastic expe
   - Always be proactive and look out for ways to grow your career even in high school 
 
 ![Proof I was at the Panel!]({{ site.baseurl }}/images/panel_proof.png)
+(Sorry the picture is blurry, but I think you know I was there)
 ---
 
 ### **Notes from the Panel**
