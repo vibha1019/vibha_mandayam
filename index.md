@@ -144,6 +144,8 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/test_corrections">Test Corrections</a></td>
+        <td><a href="{{site.baseurl}}/panel_reflection">Student Panel Reflection</a></td>
+
     </tr>
 </table>
 <!-- Liquid:  statements -->
