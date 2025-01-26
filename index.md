@@ -145,7 +145,7 @@ hide: true
     <tr>
         <td><a href="{{site.baseurl}}/test_corrections">Test Corrections</a></td>
         <td><a href="{{site.baseurl}}/panel_reflection">Student Panel Reflection</a></td>
-
+        <td><a href="{{site.baseurl}}/sprint5">Sprint 5 Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
