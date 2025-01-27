@@ -5,8 +5,6 @@ permalink: /sprint5
 comments: true
 ---
 
-## CPT Blog
-
 ### Individual Feature: Event Calendar
 
 My feature focuses on an event calendar where users can:
