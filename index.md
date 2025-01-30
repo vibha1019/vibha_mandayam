@@ -146,6 +146,7 @@ hide: true
         <td><a href="{{site.baseurl}}/test_corrections">Test Corrections</a></td>
         <td><a href="{{site.baseurl}}/panel_reflection">Student Panel Reflection</a></td>
         <td><a href="{{site.baseurl}}/sprint5">CPT Blog</a></td>
+        <td><a href="{{site.baseurl}}/aws">AWS Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
