@@ -125,7 +125,7 @@ hide: true
         <td><a href="{{site.baseurl}}/github/pages/3_10_hacks">3.10 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_2_hacks">3.2 Hacks</a></td>
         <td><a href="{{site.baseurl}}/github/pages/3_10B_hacks">3.10B Hacks</a></td>
-        <td><a href="{{site.baseurl}}/github/pages/sprint_2">Sprint 2</a></td>  
+        <td><a href="{{site.baseurl}}/github/pages/sprint_2"> Big Idea 3</a></td>  
     </tr>
 </table>
 
