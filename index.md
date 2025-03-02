@@ -153,7 +153,7 @@ hide: true
 <p> </p>
 <table style="background-color: #da95f5;">
     <tr>
-        <td><a href="{{site.baseurl}}/test_corrections">Test Corrections</a></td>
+        <td><a href="{{site.baseurl}}//mcq_final">2020 MCQ Final Notes</a></td>
         <td><a href="{{site.baseurl}}/panel_reflection">Student Panel Reflection</a></td>
         <td><a href="{{site.baseurl}}/sprint5">CPT Blog</a></td>
         <td><a href="{{site.baseurl}}/aws">AWS Blog</a></td>
