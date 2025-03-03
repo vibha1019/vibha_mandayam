@@ -156,7 +156,7 @@ hide: true
         <td><a href="{{site.baseurl}}//mcq_final">2020 MCQ Final Notes</a></td>
         <td><a href="{{site.baseurl}}/docse">5 Points DOCSE</a></td>
         <td><a href="{{site.baseurl}}/project_feature">Project Feature</a></td>
-        <td><a href="{{site.baseurl}}/aws">AWS Blog</a></td>
+        <td><a href="{{site.baseurl}}/overall_reflection">Overall Reflection</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
