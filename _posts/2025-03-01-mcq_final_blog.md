@@ -16,15 +16,15 @@ I am pretty happy with this score for not using any external sources (online inf
 ## Improvements
 
 ### Category with Biggest Improvement
-| **Category**                                 | **Improvement Description**                                                                                       |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Determining the Result of Code Segments**  | I understand how to follow code after properly coding throughout the whole trimester.                              |
+| **Category**                                | **Improvement Description**                                                                                       |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Determining the Result of Code Segments** | I understand how to follow code after properly coding throughout the whole trimester.                              |
 
 ### Breakdown by Big Ideas
 
 | **Big Ideas at Beginning of Trimester**     | **Big Ideas at End of Trimester**                                                                 |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------|
-| ![MCQ Breakdown Beginning]({{site.basurl}}images/2018_MCQ_breakdown.png) | ![MCQ Breakdown End]({{site.basurl}}images/2020_MCQ_Breakdown.png) |
+| ![MCQ Breakdown Beginning]({{site.basurl}}/images/2018_MCQ_breakdown.png) | ![MCQ Breakdown End]({{site.basurl}}/images/2020_MCQ_Breakdown.png) |
 
 ### Areas of Improvement
 | **Big Idea**          | **Improvement**                                                   |
