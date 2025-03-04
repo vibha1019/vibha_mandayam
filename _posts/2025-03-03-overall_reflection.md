@@ -26,16 +26,16 @@ comments: true
 
 - Not the most technically sound.  
 - Sometimes struggle with presenting my ideas—unsure of the right wording and what to highlight while explaining.  
-- To improve, I need more situations like these live reviews since, in the real world, presenting projects is a crucial skill.  
+- To improve, I need more situations like these live reviews since, in the real world, presenting projects is basically how the whole industry works.   
 
 # N@TM Reflection  
 
-A good way to practice this skill is by attending events like N@TM, where I presented our group's feature.  
+A good way to practice this skill is by attending events like N@TM, where our team presented our website.  
 
 ### Feedback:  
 
 - I received feedback to make the **UI cleaner** and to talk more about my specific **Calendar Feature** during the demo, as a few people were interested in it.  
-- *(Could elaborate more here.)*  
+- Another piece of feedback was to connect it to the notification system, that Kushi and I worked on, so I thought that would be a good idea
 
 ### Photos from N@TM:  
 
