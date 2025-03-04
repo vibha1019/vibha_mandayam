@@ -44,8 +44,11 @@ A good way to practice this skill is by attending events like N@TM, where I pres
 
 While I was there, I also checked out some **CSA projects** and came across one that generated **lesson plans** for all CS classes. I found it really interesting because it would make teaching much easier, especially with **200 students and three different CS classes** to manage.  
 
-### Looking Ahead:  
+### Looking Ahead  
+
+As of right now, I am definitely considering majoring in **Computer Science** or a related field like **Data Science** or **Engineering** in college. To prepare for that:  
 
 - I will **definitely be taking CSA next year**.  
 - I am applying to **internships related to CS or CS in combination with a physical science**.  
-- CS is vital to all fields, and this class has given me a solid foundation so I think it will help me
+- One example is that I am applying to the **ABLE internship program at UCSD**, which focuses on a different application of CS every week in the 8 week program (data science, AI, Machine Learning, etc). In the programming experience section of the application, I can highlight completing a **full-stack project** and understanding CRUD operations thanks to this class
+- In general, **CS is vital to all fields**, and this class has given me a solid foundation. No matter what I end up doing, I hope to apply these skills in the future.  
