@@ -163,7 +163,7 @@ hide: true
 <p> </p>
 <table style="background-color: #da95f5;">
     <tr>
-        <td><a href="{{site.baseurl}}/ppr">PPR Blog</a></td>
+        <td><a href="{{site.baseurl}}//ppr">PPR Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
