@@ -5,14 +5,75 @@ permalink: /ppr
 comments: true
 ---
 
-. The first program code segment must be a student-developed
-procedure that:
-□ Defines the procedure’s name and return type (if necessary)
-□ Contains and uses one or more parameters that have an effect on
-the functionality of the procedure
-□ Implements an algorithm that includes sequencing, selection, and
-iteration
+# PPR 1:
+- Defines the procedure’s name and return type (if necessary).
+- Contains and uses one or more parameters that have an effect on the functionality of the procedure.
+- Implements an algorithm that includes:
+  - Sequencing
+  - Selection
+  - Iteration
 
+![PPR 1 Image]({{ site.baseurl }}/images/ppr_1.png)
 
-The second program code segment must show where your
-student-developed procedure is being called in your program.
+### Why This Works
+
+#### Defines a Student-Developed Procedure  
+- The function `renderCalendar()` is a student-developed procedure with a meaningful name.  
+- It is responsible for dynamically generating a calendar layout based on the current month and year.  
+
+#### Uses Parameters That Affect Functionality  
+- The function relies on two global parameters: `currentYear` and `currentMonth`.  
+- These parameters determine which month's calendar is displayed, affecting the output.  
+
+#### Implements an Algorithm That Includes:  
+
+##### Sequencing (Step-by-step execution)  
+- The function first updates the month-year display.  
+- Then, it clears the previous calendar content.  
+- It determines the number of days in the month and iterates to create the calendar structure.  
+
+##### Selection (Conditional logic)  
+- The `if (eventsOnDay.length > 0)` statement checks if there are events on a particular day.  
+- If events exist, it marks the day and adds an emoji to indicate an event.  
+
+##### Iteration (Loops)  
+- A `for` loop (`for (let i = 0; i < firstDay; i++)`) adds empty placeholders for days before the first of the month.  
+- Another `for` loop (`for (let day = 1; day <= daysInMonth; day++)`) iterates through all the days in the month, generating a calendar cell for each.  
+- The `.forEach(event => {...})` inside the selection statement iterates through events occurring on a given day.  
+
+---
+
+# PPR 2
+The second program code segment must show where your student-developed procedure is being called in your program.
+
+![PPR 2 Image]({{ site.baseurl }}/images/ppr_2.png)
+
+### Why This Works:
+- `renderCalendar()` is called inside `changeMonth()`, ensuring that the calendar updates dynamically when the user navigates between months.  
+- This demonstrates how the student-developed procedure is integrated into the program’s functionality.  
+- The function updates `currentMonth` and `currentYear`, fetches events for the new month, and then calls `renderCalendar()` to reflect the changes.  
+
+---
+
+# PPR 3
+The first program code segment must show how data have been stored in the list.
+
+![PPR 3 Image]({{ site.baseurl }}/images/ppr_3.png)
+
+### Why This Works:
+- The `events` list is used to store newly added events.
+- The `push()` method adds new events to the list.
+- The stored events are later displayed in the calendar and event list.
+
+---
+
+# PPR 4
+
+The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program’s purpose.
+
+![PPR 4 Image]({{ site.baseurl }}/images/ppr_4.png)
+
+### Why This Works:
+- The `events` list is used to retrieve events occurring on a specific day.
+- The `.filter()` method accesses multiple elements in the list to check for matching dates.
+- The retrieved events are then displayed in the calendar, fulfilling the program’s purpose of tracking and visualizing events.
