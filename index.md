@@ -159,6 +159,13 @@ hide: true
         <td><a href="{{site.baseurl}}/overall_reflection">Overall Reflection</a></td>
     </tr>
 </table>
+
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/github/pages/ppr">PPR Blog</a></td>
+    </tr>
+</table>
 <!-- Liquid:  statements -->
 
 <!--- Concatenation of site URL to frontmatter image  --->
