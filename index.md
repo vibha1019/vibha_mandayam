@@ -164,6 +164,7 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/ppr">PPR Blog</a></td>
+        <td><a href="{{site.baseurl}}/github/pages/digital_divide">Digital Divide Hacks</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
