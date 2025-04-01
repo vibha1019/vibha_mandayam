@@ -165,6 +165,8 @@ hide: true
     <tr>
         <td><a href="{{site.baseurl}}/ppr">PPR Blog</a></td>
         <td><a href="{{site.baseurl}}/github/pages/digital_divide">Digital Divide Hacks</a></td>
+        <td><a href="{{site.baseurl}}/computing_bias">Computing Bias HW</a></td>
+        <td><a href="{{site.baseurl}}/crowdsourcing">Crowdsourcing HW</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
