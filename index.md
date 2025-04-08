@@ -168,6 +168,7 @@ hide: true
         <td><a href="{{site.baseurl}}/computing_bias">Computing Bias HW</a></td>
         <td><a href="{{site.baseurl}}/crowdsourcing">Crowdsourcing HW</a></td>
         <td><a href="{{site.baseurl}}/ethical">Legal and Ethical Concerns HW</a></td>
+         <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
