@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CyberCEO Panel Notes
-permalink: /ethical
+permalink: /cyberpanelnotes
 comments: true
 ---
 

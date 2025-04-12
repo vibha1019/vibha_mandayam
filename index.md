@@ -171,6 +171,13 @@ hide: true
          <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
     </tr>
 </table>
+
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/cyberpanelnotes">CyberCeo Blog</a></td>
+    </tr>
+</table>
 <!-- Liquid:  statements -->
 
 <!--- Concatenation of site URL to frontmatter image  --->
