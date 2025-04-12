@@ -65,4 +65,4 @@ comments: true
 
 - Thanks to CyberCEO for introducing these people, it was a great event.
 
-![Alt text]({{ site.baseurl }}/images/panel.png)
+![Alt text]({{ site.baseurl }}/images/panel.JPG)
