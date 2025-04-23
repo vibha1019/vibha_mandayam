@@ -171,7 +171,6 @@ hide: true
          <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
          <td><a href="{{site.baseurl}}/bigo">Big O Notation HW</a></td>
           <td><a href="{{site.baseurl}}/und">Undecideable Problems HW</a></td>
-
     </tr>
 </table>
 
@@ -179,7 +178,7 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/cyberpanelnotes">CyberCeo Blog</a></td>
-        <td><a href="{{site.baseurl}}/mcplan">MCQ Study sBlog</a></td>
+        <td><a href="{{site.baseurl}}/mcplan">MCQ Study Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
