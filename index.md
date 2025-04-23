@@ -179,6 +179,7 @@ hide: true
 <table style="background-color: #da95f5;">
     <tr>
         <td><a href="{{site.baseurl}}/cyberpanelnotes">CyberCeo Blog</a></td>
+        <td><a href="{{site.baseurl}}/mcplan">MCQ Study sBlog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
