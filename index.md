@@ -168,9 +168,10 @@ hide: true
         <td><a href="{{site.baseurl}}/computing_bias">Computing Bias HW</a></td>
         <td><a href="{{site.baseurl}}/crowdsourcing">Crowdsourcing HW</a></td>
         <td><a href="{{site.baseurl}}/ethical">Legal and Ethical Concerns HW</a></td>
-         <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
-         <td><a href="{{site.baseurl}}/bigo">Big O Notation HW</a></td>
+        <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
+        <td><a href="{{site.baseurl}}/bigo">Big O Notation HW</a></td>
           <td><a href="{{site.baseurl}}/und">Undecideable Problems HW</a></td>
+        <td><a href="{{site.baseurl}}/binary">Binary HW</a></td>
     </tr>
 </table>
 
