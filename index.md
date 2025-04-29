@@ -171,9 +171,10 @@ hide: true
         <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
         <td><a href="{{site.baseurl}}/bigo">Big O Notation HW</a></td>
           <td><a href="{{site.baseurl}}/und">Undecideable Problems HW</a></td>
-        <td><a href="{{site.baseurl}}/binary">Binary HW</a></td>
+        <d><a href="{{site.baseurl}}/binary">Binary HW</a></td>
+         <d><a href="{{site.baseurl}}/colors">Colors/Base 64 HW</a></td>
     </tr>
-</table>
+</table>t
 
 <p> </p>
 <table style="background-color: #da95f5;">
