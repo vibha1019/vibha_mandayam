@@ -181,6 +181,7 @@ hide: true
     <tr>
         <td><a href="{{site.baseurl}}/cyberpanelnotes">CyberCeo Blog</a></td>
         <td><a href="{{site.baseurl}}/mcplan">MCQ Study Blog</a></td>
+        <td><a href="{{site.baseurl}}/cteblog">CTE Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->
