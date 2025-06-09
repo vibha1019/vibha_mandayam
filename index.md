@@ -182,6 +182,7 @@ hide: true
         <td><a href="{{site.baseurl}}/cyberpanelnotes">CyberCeo Blog</a></td>
         <td><a href="{{site.baseurl}}/mcplan">MCQ Study Blog</a></td>
         <td><a href="{{site.baseurl}}/cteblog">CTE Blog</a></td>
+        <td><a href="{{site.baseurl}}/cspfinalblog">CSP Final Blog</a></td>
     </tr>
 </table>
 <!-- Liquid:  statements -->

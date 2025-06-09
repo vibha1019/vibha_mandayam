@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final blog
-permalink: /csp_final_blog
+permalink: /cspfinalblog
 comments: true
 ---
 
@@ -55,3 +55,18 @@ Over the course of the year, I earned a series of credentials that reflect my co
 | Portfolio           | **LinkedIn Account**             | Developed a professional profile to connect with peers, mentors, and opportunities. |
 
 Each certificate reflects not just the completion of technical tasks, but my ability to apply those skills in meaningful ways—especially through cross-disciplinary projects like **GlucoQuest** and collaborative tools like GitHub and Trello.
+
+---
+## Showcasing Projects: Night at the Museum (June 2025)
+
+One of the most rewarding parts of the year was presenting **GlucoQuest** at **Night at the Museum (N@tM)** in June 2025. This school-wide event gave students the chance to share their work with families, teachers, and industry professionals.
+
+![GlucoQuest Booth – Screenshot 1]({{ site.baseurl }}/images/natm1.png)
+![GlucoQuest Booth – Screenshot 2]({{ site.baseurl }}/images/natm2.png)
+
+At my booth, I demonstrated both the core gameplay and the machine learning-based diabetes risk predictor. I explained the technical challenges behind the project, including our use of HTML/CSS, JavaScript, scikit-learn, and deployment tools. I also walked visitors through the **Perfect Plate** leaderboard and our design thinking process.
+
+What made this event especially meaningful was that I got to speak with **former and current Dexcom employees**. Some were impressed enough with our project that they offered to connect us to people at the Dexcom office for a possible visit. It felt more like a real networking event than just a school showcase.
+
+Experiences like N@tM helped me improve my **public speaking**, **technical presentation**, and **real-time demo** skills. It was a great way to learn how to communicate ideas clearly to a non-technical audience while making real professional connections.
+
