@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final blog
+title: Final Blog
 permalink: /cspfinalblog
 comments: true
 ---
@@ -26,20 +26,6 @@ This feature shows my strength in **data-driven development**, as well as my abi
 
 
 ---
-
-### Perfect Plate Game
-
-To teach healthy eating in an engaging way, I designed the **Perfect Plate challenge**, where players build meals and get scored based on nutritional balance.
-
-- Created a **live leaderboard** for competition and replay value.
-- Reinforced concepts like **carb counting** and **insulin timing** through gameplay.
-
-This demonstrates my skill in turning complex health concepts into interactive learning experiences through **UI/UX design** and **game logic**.
-
-![Perfect Plate]({{ site.baseurl }}/images/perfect_plate.png)
-
----
-
 ### My Role: Scrum Master
 
 As the **Scrum Master**, I was responsible for:
@@ -71,7 +57,6 @@ Each certificate reflects not just the completion of technical tasks, but my abi
 
 One of the most rewarding parts of the year was presenting **GlucoQuest** at **Night at the Museum (N@tM)** in June 2025. This school-wide event gave students the chance to share their work with families, teachers, and industry professionals.
 
-![GlucoQuest Booth – Screenshot 1]({{ site.baseurl }}/images/natm1.png)
 ![GlucoQuest Booth – Screenshot 2]({{ site.baseurl }}/images/natm2.png)
 
 At my booth, I demonstrated both the core gameplay and the machine learning-based diabetes risk predictor. I explained the technical challenges behind the project, including our use of HTML/CSS, JavaScript, scikit-learn, and deployment tools. I also walked visitors through the **Perfect Plate** leaderboard and our design thinking process.
@@ -80,3 +65,27 @@ What made this event especially meaningful was that I got to speak with **former
 
 Experiences like N@tM helped me improve my **public speaking**, **technical presentation**, and **real-time demo** skills. It was a great way to learn how to communicate ideas clearly to a non-technical audience while making real professional connections.
 
+
+---
+
+## Stats & Contributions: Methodologies and Artifacts
+
+Throughout the year, I actively contributed to team projects using GitHub. My work is reflected across **commits**, **issues**, and **pull requests**, demonstrating consistent participation in both frontend and backend development.
+![Kanban Board]({{ site.baseurl }}/images/kanban.png)  
+
+---
+
+### Commits
+
+My GitHub activity shows regular and meaningful contributions across multiple areas of our codebase:
+
+![Overall Commits over past year]({{ site.baseurl }}/images/commit1.png)  
+*Tracking steady development from ideation to deployment.*
+
+![Frontend Commits]({{ site.baseurl }}/images/commit2.png)  
+*Worked on UI layout, game logic, and interactive design.*
+
+![Backend Commits]({{ site.baseurl }}/images/commit3.png)  
+*Implemented risk prediction logic, scoring system, and API endpoints.*
+
+---
