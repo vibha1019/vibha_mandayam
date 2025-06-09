@@ -5,6 +5,14 @@ permalink: /cspfinalblog
 comments: true
 ---
 
+<div style="text-align: center; margin-bottom: 20px;">
+
+  <a href="https://docs.google.com/document/d/18jDg64nOD5FS56j6mzhVFKd1Mwp12r7x0_AoEXDDrsU/edit?tab=t.0#heading=h.bm9zfk7in03j" target="_blank" style="padding: 10px 20px; margin: 5px; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;">📄 View My Resume</a>
+
+  <a href="https://www.linkedin.com/in/vibha-mandayam-315042315/" target="_blank" style="padding: 10px 20px; margin: 5px; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;">💼 Visit My LinkedIn</a>
+
+</div>
+
 ## Project: GlucoQuest – Gamifying Diabetes Education
 
 **GlucoQuest** is an interactive web-based game I co-developed through a partnership with **Dexcom** and **PilotCity**. Designed to educate users about diabetes in a fun, approachable way, it blends game development, health tech, and data science to create meaningful impact.
