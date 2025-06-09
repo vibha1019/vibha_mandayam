@@ -174,7 +174,7 @@ hide: true
         <td><a href="{{site.baseurl}}/binary">Binary HW</a></td>
          <td><a href="{{site.baseurl}}/colors">Colors/Base 64 HW</a></td>
     </tr>
-</table>t
+</table>
 
 <p> </p>
 <table style="background-color: #da95f5;">

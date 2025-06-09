@@ -52,6 +52,22 @@ Over the course of the year, I earned a series of credentials that reflect my co
 
 Each certificate reflects not just the completion of technical tasks, but my ability to apply those skills in meaningful ways—especially through cross-disciplinary projects like **GlucoQuest** and collaborative tools like GitHub and Trello.
 
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/ppr">PPR Blog</a></td>
+        <td><a href="{{site.baseurl}}/github/pages/digital_divide">Digital Divide Hacks</a></td>
+        <td><a href="{{site.baseurl}}/computing_bias">Computing Bias HW</a></td>
+        <td><a href="{{site.baseurl}}/crowdsourcing">Crowdsourcing HW</a></td>
+        <td><a href="{{site.baseurl}}/ethical">Legal and Ethical Concerns HW</a></td>
+        <td><a href="{{site.baseurl}}/binarysearch">Binary Search HW</a></td>
+        <td><a href="{{site.baseurl}}/bigo">Big O Notation HW</a></td>
+          <td><a href="{{site.baseurl}}/und">Undecideable Problems HW</a></td>
+        <td><a href="{{site.baseurl}}/binary">Binary HW</a></td>
+         <td><a href="{{site.baseurl}}/colors">Colors/Base 64 HW</a></td>
+    </tr>
+</table>
+
 ---
 ## Showcasing Projects: Night at the Museum (June 2025)
 
