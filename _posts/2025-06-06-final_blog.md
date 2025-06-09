@@ -7,37 +7,47 @@ comments: true
 
 ## Project: GlucoQuest – Gamifying Diabetes Education
 
-**GlucoQuest** is an interactive web-based game I co-developed through a partnership with **Dexcom** and **PilotCity**, aimed at educating users about diabetes management in a fun and engaging way. The project combined game development, data science, and public health education to make a real-world impact.
+**GlucoQuest** is an interactive web-based game I co-developed through a partnership with **Dexcom** and **PilotCity**. Designed to educate users about diabetes in a fun, approachable way, it blends game development, health tech, and data science to create meaningful impact.
+
+This project reflects my ability to combine **technical skill with creativity**, while addressing a real-world issue through technology and design.
 
 ---
 
 ### Diabetes Risk Prediction with UCI Dataset
 
-To take GlucoQuest beyond education, I developed a **machine learning-based diabetes risk prediction tool** as an added feature. Here's how it works:
+I integrated a **machine learning feature** that predicts a player’s diabetes risk using real health metrics.
 
-- Pulled real-world health metrics (age, BMI, glucose levels, etc.) from the **UCI Diabetes dataset**.
-- Trained a **logistic regression model** using **Pandas, NumPy, and scikit-learn** to predict diabetes risk.
-- Integrated the prediction output into the game so players could simulate their own risk based on input data and see personalized feedback.
+- Trained a **logistic regression model** on the **UCI Diabetes dataset** using **Pandas**, **NumPy**, and **scikit-learn**.
+- Embedded the predictive tool into the game so players could input data and receive real-time, personalized feedback.
 
-This component added depth to the game and helped bridge education with real-world application of data science and AI.
+This feature shows my strength in **data-driven development**, as well as my ability to apply Python and AI tools for socially impactful solutions.
+
+![ML Prediction]({{ site.baseurl }}/images/ml_prediction.png)
+
 
 ---
 
 ### Perfect Plate Game
 
-To promote healthy food choices, I added the **Perfect Plate challenge**, where users build a virtual meal with various food options. Based on the nutritional value and balance, each plate receives a score.
+To teach healthy eating in an engaging way, I designed the **Perfect Plate challenge**, where players build meals and get scored based on nutritional balance.
 
-- Players are ranked on a **live leaderboard** that encourages replayability and competition.
-- Reinforces concepts like **carb counting**, **protein balance**, and **insulin timing** in a game-like format.
+- Created a **live leaderboard** for competition and replay value.
+- Reinforced concepts like **carb counting** and **insulin timing** through gameplay.
+
+This demonstrates my skill in turning complex health concepts into interactive learning experiences through **UI/UX design** and **game logic**.
+
+![Perfect Plate]({{ site.baseurl }}/images/perfect_plate.png)
 
 ---
 
-### My Role: Scrum Master & Lead Developer
+### My Role: Scrum Master
 
 As the **Scrum Master**, I was responsible for:
 - Organizing and leading team stand-ups and sprint planning.
 - Managing the Kanban board to assign tasks, track progress, and ensure deadlines were met.
 - Facilitating collaboration between frontend, design, and data teams.
+
+![Slack Communication]({{ site.baseurl }}/images/slack_comm.png)
 
 --- 
 
