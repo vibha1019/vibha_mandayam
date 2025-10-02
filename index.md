@@ -185,6 +185,17 @@ hide: true
         <td><a href="{{site.baseurl}}/cspfinalblog">CSP Final Blog</a></td>
     </tr>
 </table>
+
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/csa/unit_01/1_1/homework">1.1 HW</a></td>
+        <td><a href="{{site.baseurl}}//csa/unit_01/1_2/homework">1.2 HW</a></td>
+        <td><a href="{{site.baseurl}}/cteblog">CTE Blog</a></td>
+        <td><a href="{{site.baseurl}}/cspfinalblog">CSP Final Blog</a></td>
+    </tr>
+</table>
+
 <!-- Liquid:  statements -->
 
 <!--- Concatenation of site URL to frontmatter image  --->
