@@ -193,6 +193,7 @@ hide: true
         <td><a href="{{site.baseurl}}//csa/unit_01/1_2/homework">1.2 HW</a></td>
         <td><a href="{{site.baseurl}}/cteblog">CTE Blog</a></td>
         <td><a href="{{site.baseurl}}/cspfinalblog">CSP Final Blog</a></td>
+        <td><a href="{{site.baseurl}}/college_panel">College Panel Blog</a></td>
     </tr>
 </table>
 
